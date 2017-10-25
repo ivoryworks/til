@@ -4,6 +4,7 @@
 * 指定範囲
     * command + shift + 4
 * ウィンドウ(影あり)
-    * command + shift + 4 + space
+    * 指定範囲状態(command + shift + 4)から space を押下する(カメラアイコンになる)
+    * キャプチャしたいウィンドウにカメラカーソルを合わせてクリック
 * ウィンドウ(影なし)
-    * command + shift + 4 + space + option
+    * ウィンドウ(影あり)状態(command + shift + 4 and space)で option を押下しながらウィンドウをクリック
